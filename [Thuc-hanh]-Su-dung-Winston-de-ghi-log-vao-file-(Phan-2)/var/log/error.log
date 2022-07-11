@@ -1,0 +1,11 @@
+[2022-07-11 09:24:44] [[31merror[39m] Error: Error test winston
+    at D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\dist\index.js:15:15
+    at Layer.handle [as handle_request] (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\layer.js:95:5)
+    at D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Thuc-hanh]-Su-dung-Winston-de-ghi-log-vao-file-(Phan-2)\node_modules\express\lib\router\layer.js:95:5)
