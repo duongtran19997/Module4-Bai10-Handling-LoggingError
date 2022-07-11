@@ -9,6 +9,7 @@ const multer_1 = __importDefault(require("multer"));
 const book_model_1 = require("../schema/book.model");
 const author_model_1 = require("../schema/author.model");
 const publisher_model_1 = require("../schema/publisher.model");
+const winston_1 = require("../logger/winston");
 const upload = (0, multer_1.default)();
 const router = express_1.default.Router();
 exports.router = router;
@@ -30,7 +31,7 @@ router.post('/create', upload.none(), async (req, res) => {
         res.json('success');
     }
     catch (err) {
-        console.log(err);
+        winston_1.logger.error(err);
     }
 });
 router.get('/list', upload.none(), async (req, res) => {

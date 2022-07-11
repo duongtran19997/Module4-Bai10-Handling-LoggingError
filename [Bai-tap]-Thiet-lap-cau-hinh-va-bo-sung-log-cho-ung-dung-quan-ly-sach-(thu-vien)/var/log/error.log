@@ -1,0 +1,3 @@
+[2022-07-11 10:57:58] [[31merror[39m] Error: Error test winston
+    at D:\MODULE4\Module4-Bai10-Handling-LoggingError\[Bai-tap]-Thiet-lap-cau-hinh-va-bo-sung-log-cho-ung-dung-quan-ly-sach-(thu-vien)\dist\index.js:24:11
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

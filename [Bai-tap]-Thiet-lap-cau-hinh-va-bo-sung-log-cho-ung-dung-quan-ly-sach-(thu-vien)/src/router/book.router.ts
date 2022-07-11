@@ -4,6 +4,7 @@ import multer from 'multer';
 import {book} from "../schema/book.model";
 import {author} from "../schema/author.model";
 import {publisher} from "../schema/publisher.model";
+import {logger} from "../logger/winston";
 
 const upload = multer();
 const router = express.Router();
@@ -27,7 +28,7 @@ router.post('/create', upload.none(), async (req, res) => {
 
         res.json('success')
     }catch (err) {
-        console.log(err);
+        logger.error(err);
     }
 });
 

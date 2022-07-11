@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8ea90ad-01b1-46ac-a7bf-f7f824b1a5db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/logger/winston.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/router/authRouter.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/router/authRouter.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/router/book.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/router/book.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/router/book.router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/router/book.router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tsconfig.build.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tsconfig.build.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logger/winston.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/logger/winston.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/book.router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/book.router.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Cau-hinh-Sentry-cho-ung-dung-ExpressJS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Cau-hinh-Sentry-cho-ung-dung-ExpressJS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Su-dung-Winston-trong-ung-dung-ExpressJS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Su-dung-Winston-trong-ung-dung-ExpressJS/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,6 +70,7 @@
       <workItem from="1657266847712" duration="1729000" />
       <workItem from="1657357537816" duration="3451000" />
       <workItem from="1657510352331" duration="509000" />
+      <workItem from="1657511038525" duration="1778000" />
     </task>
     <servers />
   </component>
