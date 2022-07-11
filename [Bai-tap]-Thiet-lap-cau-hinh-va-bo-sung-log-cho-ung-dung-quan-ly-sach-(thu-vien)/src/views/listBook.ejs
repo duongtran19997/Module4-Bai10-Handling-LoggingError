@@ -1,0 +1,10 @@
+<form action="/book/list" method="get" enctype="multipart/form-data">
+  <p>Author</p><input type="text" name="author">
+  <button type="submit">search</button>
+</form>
+
+<%listBook.forEach(book => {%>
+  <p>name: <%= book.name%></p>
+  <p>author: <%= book.author.name%></p>
+  <p>publisher: <%= book.publisher.name%></p>
+<%})%>
